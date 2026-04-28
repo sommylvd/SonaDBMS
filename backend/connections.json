@@ -1,0 +1,1 @@
+{"test2": {"host": "localhost", "port": 5432, "database": "test2", "user": "postgres", "password": "123456"}, "sonya_db": {"host": "localhost", "port": 5432, "database": "sonya_db", "user": "postgres", "password": "123456"}, "kkkk": {"host": "localhost", "port": 5432, "database": "kkkk", "user": "postgres", "password": "123456"}}
